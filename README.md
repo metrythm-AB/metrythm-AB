@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦾 I'm currently working on Ethical AI and AI developmentI and I work on backend systems using Docker, Kubernetes and FastAPI.<br>🐍 I'm mastering Python,Deep Learning and Machine Learning Frameworks.<br>💬 DM me to chat about tech, AI, or any interesting project you're working on. 💬
+🦾 I'm currently working on Ethical AI and AI development and I work on backend systems using Docker, Kubernetes and FastAPI.<br>🐍 I'm mastering Python,Deep Learning and Machine Learning Frameworks.<br>💬 DM me to chat about tech, AI, or any interesting project you're working on. 💬
 
 
 ## 🌐 Socials:
